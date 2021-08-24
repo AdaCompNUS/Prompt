@@ -1,0 +1,15 @@
+{
+  "name": "Franka",
+  "rest_gripper_dis": 0.08,
+  "finger_depth": 0.04,
+  "halfEdge": [
+    0.01,
+    0.030,
+    0.01
+  ],
+  "halfEdge_cap": [
+    0.03,
+    0.006,
+    0.03
+  ]
+}

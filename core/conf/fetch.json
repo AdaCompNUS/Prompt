@@ -1,0 +1,15 @@
+{
+  "name": "Fetch",
+  "rest_gripper_dis": 0.115,
+  "finger_depth": 0.05,
+  "halfEdge": [
+    0.0135,
+    0.030,
+    0.014
+  ],
+  "halfEdge_cap": [
+    0.03,
+    0.006,
+    0.03
+  ]
+}

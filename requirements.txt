@@ -1,0 +1,8 @@
+numpy==1.19.2
+gym==0.18.3
+scipy==1.5.4
+pybullet==3.1.7
+cloudpickle==1.6.0
+opencv_python==4.5.2.52
+pyflex==0.1.5
+pybind11==2.7.0

@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+#*.so
 
 # Distribution / packaging
 .Python
@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+#lib/
 lib64/
 parts/
 sdist/
@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+gym_env/robot/objs/
+gym_env/robot/objects/
+core/app/push/data_folder/
+core/app/grasp/data_folder/
+core/app/grasp/data_folder_real/
+PyFlexEngine/bin/
+PyFlexEngine/imgs/
+vhacd_log.txt
+
+fail_id_str.txt
+
+fail_ids.txt
+
+succ_id_str.txt
